@@ -62,7 +62,7 @@ trait-neuro-aversion-name = Neuroaversion
 trait-neuro-aversion-desc = Your nervous system has an adverse reaction to MindShield implants. You experience migraines and rare seizures.
 
 trait-neuro-aversion-migraine-start = Your Mindshield cascades begins to throb painfully...
-trait-neuro-aversion-migraine-start-other = {THE($target)} winces and clutches {POSS-ADJ($target)} their head.
+trait-neuro-aversion-migraine-start-other = {THE($target)} winces and clutches {POSS-ADJ($target)} head.
 
 seizure-prodrome-self = You feel something terrible coming on...
 seizure-prodrome-others = {$target} stumbles and heaves.
@@ -70,6 +70,13 @@ seizure-self = Your body convulses uncontrollably!
 seizure-others = {$target} collapses and convulses uncontrollably!
 seizure-end-self = The world fades back in as the episode dies down.
 seizure-end-others = {$target}'s convulsions subside.
+
+trait-neuroaversion-prodrome-self = You feel something terrible coming on...
+trait-neuroaversion-prodrome-others = {THE($target)} staggers, eyes wide and unfocused.
+trait-neuroaversion-seizure-self = Your Mindshield cascades and you convulse uncontrollably!
+trait-neuroaversion-seizure-others = {THE($target)} collapses, convulsing violently from neuroaversion!
+trait-neuroaversion-recovery-self = You slowly regain control as the neuroaversion episode fades.
+trait-neuroaversion-recovery-others = {THE($target)}'s convulsions subside and they begin to recover.
 
 # ChronicMigraines trait
 trait-chronic-migraines-name = Chronic Migraines
