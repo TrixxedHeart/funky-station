@@ -3,7 +3,6 @@
 //
 // SPDX-License-Identifier: MIT
 
-using System.Numerics;
 using Robust.Shared.GameStates;
 
 namespace Content.Server.Traits.Assorted;
@@ -36,6 +35,7 @@ public sealed partial class ChronicMigrainesComponent : Component
     /// <summary>
     /// Time until next migraine.
     /// </summary>
+    [ViewVariables(VVAccess.ReadWrite)]
     [DataField, AutoNetworkedField]
     public TimeSpan NextMigraineTime;
 }
