@@ -4,13 +4,14 @@
 // SPDX-License-Identifier: MIT
 
 using System.Numerics;
+using Robust.Shared.GameStates;
 
 namespace Content.Server.Traits.Assorted;
 
 /// <summary>
 /// Component for the chronic migraines trait.
 /// </summary>
-[RegisterComponent, Access(typeof(ChronicMigrainesSystem))]
+[RegisterComponent, Access(typeof(ChronicMigrainesSystem)), NetworkedComponent]
 public sealed partial class ChronicMigrainesComponent : Component
 {
     /// <summary>
