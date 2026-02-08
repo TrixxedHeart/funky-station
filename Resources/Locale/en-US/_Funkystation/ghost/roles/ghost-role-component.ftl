@@ -48,3 +48,6 @@ ghost-role-information-meowl-description = A highly invasive apex predator. The 
 
 ghost-role-information-haunted-sword-name = Haunted Swords
 ghost-role-information-haunted-sword-description = A mysterious weapon of old, haunted with spirits both ancient and powerful.
+
+ghost-role-information-steve-name = Steve (MK-357)
+ghost-role-information-steve-description = You are Steve, the lone survivor of the vgroid asteroid facility. Against all odds, you have been surviving and thriving in the harsh environment. What will you do when others arrive on your asteroid home?

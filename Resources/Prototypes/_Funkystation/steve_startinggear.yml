@@ -1,0 +1,10 @@
+- type: startingGear
+  id: SteveMobGear
+  equipment:
+    head: ClothingHeadHatBeretMerc
+    jumpsuit: ClothingUniformJumpsuitMercenary
+    belt: ClothingBeltUtilityFilled
+    back: ClothingBackpackMerc
+  inhand:
+    - WeaponCrusherGlaive
+    - FlashlightLantern

@@ -46,7 +46,7 @@
   - InternalAffairsAgentBelt
   - Survival
   - Trinkets
-  - InternalAffairsJobTrinkets  
+  - InternalAffairsJobTrinkets
   - GroupSpeciesBreathTool
 
 - type: roleLoadout
@@ -76,3 +76,7 @@
     - Trinkets
     - GroupSpeciesBreathTool
 
+- type: roleLoadout
+  id: SteveRoleLoadout
+  groups:
+  - SteveLoadouts
