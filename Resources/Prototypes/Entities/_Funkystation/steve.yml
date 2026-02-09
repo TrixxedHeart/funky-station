@@ -2,7 +2,7 @@
   name: Steve
   parent: MobMonkey
   id: MobMonkeySteve
-  description: The lone survivor of the vgroid asteroid facility. Against all odds, he has been surviving and thriving in the harsh environment.
+  description: The lone survivor of the vgroid asteroid facility. Against all odds, he has been surviving.
   components:
   - type: GhostRole
     prob: 1
